@@ -1,1 +1,1 @@
-# android_device_monitor_tool_logcat
+# Android Device Monitor - Android logcat tool
