@@ -1,0 +1,1 @@
+# android_device_monitor_tool_logcat
