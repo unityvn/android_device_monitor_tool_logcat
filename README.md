@@ -8,7 +8,7 @@
 ### Lưu ý
 
 - Chạy trên window (máy mac thì bỏ qua luôn)
-- Trong máy phải có java sdk 8 (cái này nếu k mở được lên thì chỉ cần down bừa một bản java sdk 8 về cài vào máy là chạy được, không phải setup thêm gì [(Mình ghim 1 version java sdk 8 ở đây nhé)](https://github.com/unityvn/android_device_monitor_tool_logcat/releases/download/1.0.0/JavaSetup8u441.exe))
+- Trong máy phải có java sdk 8 (cái này nếu không mở được lên thì chỉ cần down bừa một bản java sdk 8 về cài vào máy là chạy được, không phải setup thêm gì [(Mình ghim 1 version java sdk 8 ở đây nhé)](https://github.com/unityvn/android_device_monitor_tool_logcat/releases/download/1.0.0/JavaSetup8u441.exe))
 
 ### Cách dùng
 
