@@ -21,3 +21,20 @@
 ![monitor](https://github.com/user-attachments/assets/a8eab629-cf13-4340-911c-2b5eb351926e)
 
 Đến đây chỉ cần mở monitor lên và dùng thôi (nếu mở thông thường không được thì hãy thử mở bằng Administrator)
+
+- Hoặc ném method này vào static class nào đó rồi gọi nó ra cũng có thể mở được Monitor lên nhé
+
+```csharp
+        public static void OpenMonitor()
+        {
+            string path = $"{AndroidExternalToolsSettings.sdkRootPath}/tools/monitor.bat";
+            if (File.Exists(path))
+            {
+                Process process = new Process();
+                process.StartInfo.FileName = path;
+                process.StartInfo.Verb = "runas";
+                process.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+                process.Start();
+            }
+        }
+```
