@@ -15,3 +15,7 @@
 - Lấy SDK path trong unity
 
 ![sdk_path](https://github.com/user-attachments/assets/48cce3c0-08d6-41fd-a77c-786cd8f9f356)
+
+- Mở theo sdk path > tools > monitor
+
+![monitor](https://github.com/user-attachments/assets/a8eab629-cf13-4340-911c-2b5eb351926e)
