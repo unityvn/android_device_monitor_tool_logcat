@@ -19,3 +19,5 @@
 - Mở theo sdk path > tools > monitor
 
 ![monitor](https://github.com/user-attachments/assets/a8eab629-cf13-4340-911c-2b5eb351926e)
+
+Đến đây chỉ cần mở monitor lên và dùng thôi (nếu mở thông thường không được thì hãy thử mở bằng Administrator)
