@@ -8,5 +8,10 @@
 ### Lưu ý
 ```
 - Chạy trên window (máy mac thì bỏ qua luôn)
-- Trong máy phải có java sdk 8 (cái này nếu k mở được lên thì chỉ cần down java 8 về cài vào máy là chạy được, không phải setup thêm gì)
+- Trong máy phải có java sdk 8 (cái này nếu k mở được lên thì chỉ cần down bừa một bản java sdk 8 về cài vào máy là chạy được, không phải setup thêm gì)
 ```
+### Cách dùng
+
+- Lấy SDK path trong unity
+
+![sdk_path](https://github.com/user-attachments/assets/48cce3c0-08d6-41fd-a77c-786cd8f9f356)
